@@ -1,0 +1,501 @@
+Date,Order ID,Customer ID,Product Category,Product Name,Region,Units Sold,Unit Price,Payment Mode,Delivery Status
+2024-04-07,OID10001,CID8002,Books,Notebook,South,2,405,COD,Cancelled
+2024-08-08,OID10002,CID8020,Home Appliances,Microwave,South,4,513,Debit Card,Delivered
+2024-11-13,OID10003,CID7520,Clothing,Jacket,North,5,931,Debit Card,In Transit
+2024-09-26,OID10004,CID5425,Books,Notebook,West,2,213,Debit Card,Delivered
+2024-07-10,OID10005,CID9086,Electronics,Tablet,West,2,48922,COD,Delivered
+2025-01-14,OID10006,CID9868,Clothing,Jacket,South,1,1335,Debit Card,Returned
+2025-05-17,OID10007,CID5324,Grocery,Snacks,South,3,523,UPI,In Transit
+2025-05-07,OID10008,CID6945,Electronics,Headphones,South,2,6911,UPI,Cancelled
+2025-01-23,OID10009,CID5785,Home Appliances,Mixer,East,1,1327,Net Banking,Delivered
+2024-02-19,OID10010,CID9518,Clothing,Jacket,East,3,1386,Debit Card,In Transit
+2024-09-25,OID10011,CID8636,Footwear,Sandals,West,2,533,UPI,In Transit
+2025-05-27,OID10012,CID9622,Books,Novel,North,1,1352,Credit Card,Returned
+2025-03-24,OID10013,CID9754,Clothing,Saree,West,1,756,Credit Card,In Transit
+2025-01-28,OID10014,CID9034,Footwear,Shoes,West,4,881,Net Banking,Delivered
+2024-07-23,OID10015,CID5475,Grocery,Rice,South,1,1192,UPI,Returned
+2024-12-24,OID10016,CID8531,Footwear,Slippers,South,1,1009,Debit Card,Returned
+2025-03-21,OID10017,CID8313,Footwear,Shoes,South,1,565,Net Banking,In Transit
+2024-12-15,OID10018,CID8938,Footwear,Shoes,West,5,236,Debit Card,Cancelled
+2025-03-26,OID10019,CID7819,Books,Notebook,East,4,542,Credit Card,Cancelled
+2024-11-22,OID10020,CID8459,Grocery,Milk,North,3,1720,Net Banking,Delivered
+2024-05-25,OID10021,CID7997,Clothing,Jeans,West,1,957,Net Banking,Returned
+2024-01-28,OID10022,CID7147,Clothing,Kurta,West,3,281,COD,In Transit
+2024-04-16,OID10023,CID6109,Footwear,Slippers,South,2,1250,Net Banking,Cancelled
+2024-08-30,OID10024,CID8570,Electronics,Smartwatch,East,1,27120,Debit Card,Delivered
+2024-03-10,OID10025,CID7443,Home Appliances,Washing Machine,West,5,806,Credit Card,Delivered
+2025-04-27,OID10026,CID8963,Books,Novel,North,1,1629,Net Banking,Returned
+2024-01-04,OID10027,CID5349,Home Appliances,Refrigerator,North,5,1448,UPI,Delivered
+2024-11-03,OID10028,CID7195,Home Appliances,Mixer,West,3,870,Debit Card,Delivered
+2025-03-20,OID10029,CID9836,Grocery,Milk,South,4,1043,Debit Card,Cancelled
+2024-01-04,OID10030,CID9684,Home Appliances,Washing Machine,North,5,994,UPI,Delivered
+2024-12-09,OID10031,CID7045,Home Appliances,Microwave,South,5,1636,Debit Card,Delivered
+2024-10-17,OID10032,CID7923,Home Appliances,Microwave,North,3,1713,Debit Card,Returned
+2024-12-20,OID10033,CID7339,Grocery,Snacks,East,1,1457,Net Banking,In Transit
+2024-01-26,OID10034,CID6515,Electronics,Mobile,North,2,21394,COD,In Transit
+2024-07-29,OID10035,CID5785,Grocery,Milk,South,5,1496,COD,Delivered
+2025-01-20,OID10036,CID7159,Electronics,Tablet,East,2,33399,Credit Card,In Transit
+2024-04-09,OID10037,CID6613,Grocery,Rice,West,4,881,Debit Card,Cancelled
+2024-10-02,OID10038,CID6720,Grocery,Rice,North,4,1482,COD,Delivered
+2024-07-01,OID10039,CID6832,Books,Novel,North,3,1732,Net Banking,Returned
+2024-01-15,OID10040,CID9737,Home Appliances,Washing Machine,East,5,1166,Credit Card,Cancelled
+2024-04-07,OID10041,CID7731,Clothing,Kurta,South,1,814,Net Banking,Cancelled
+2024-09-04,OID10042,CID7038,Electronics,Laptop,East,5,9196,UPI,Delivered
+2025-04-19,OID10043,CID6514,Books,Notebook,North,3,535,Net Banking,Returned
+2025-06-19,OID10044,CID8088,Footwear,Sandals,East,3,1794,Net Banking,Cancelled
+2025-04-25,OID10045,CID7887,Grocery,Wheat,East,5,1307,Net Banking,Delivered
+2024-07-23,OID10046,CID9114,Home Appliances,Mixer,South,3,832,UPI,In Transit
+2025-02-04,OID10047,CID9534,Home Appliances,Refrigerator,West,3,610,UPI,Returned
+2025-02-15,OID10048,CID9115,Books,Textbook,South,2,1867,UPI,Cancelled
+2024-01-02,OID10049,CID8167,Footwear,Shoes,East,3,711,Credit Card,Returned
+2024-02-20,OID10050,CID7116,Clothing,Jacket,North,5,1930,COD,Returned
+2024-01-27,OID10051,CID5132,Grocery,Snacks,East,1,1224,Debit Card,Delivered
+2024-11-02,OID10052,CID7340,Electronics,Tablet,East,2,21386,Debit Card,Cancelled
+2025-06-11,OID10053,CID8218,Clothing,Kurta,East,3,107,Net Banking,Cancelled
+2025-02-15,OID10054,CID7410,Books,Textbook,North,1,744,UPI,Returned
+2025-05-16,OID10055,CID9297,Clothing,Kurta,West,5,1395,Debit Card,Returned
+2025-03-13,OID10056,CID6023,Home Appliances,Refrigerator,East,2,128,COD,In Transit
+2025-05-31,OID10057,CID6161,Clothing,Kurta,North,5,938,Net Banking,In Transit
+2024-01-05,OID10058,CID5770,Electronics,Tablet,East,4,19203,Credit Card,Returned
+2024-02-11,OID10059,CID6543,Grocery,Snacks,North,2,898,Credit Card,In Transit
+2024-09-23,OID10060,CID9056,Electronics,Headphones,North,4,19159,Net Banking,Returned
+2025-05-31,OID10061,CID6427,Home Appliances,Washing Machine,North,4,1350,Net Banking,In Transit
+2025-03-07,OID10062,CID7224,Clothing,Kurta,West,1,322,Net Banking,In Transit
+2025-03-24,OID10063,CID8078,Books,Notebook,West,5,351,Net Banking,Cancelled
+2025-06-11,OID10064,CID8895,Clothing,T-shirt,East,5,1729,Net Banking,Delivered
+2024-12-15,OID10065,CID6834,Books,Notebook,South,1,944,Credit Card,Returned
+2024-09-24,OID10066,CID5349,Grocery,Snacks,West,4,1637,COD,Returned
+2024-01-30,OID10067,CID7776,Footwear,Shoes,South,5,443,Net Banking,Cancelled
+2025-05-23,OID10068,CID9662,Grocery,Wheat,South,3,1535,Net Banking,Cancelled
+2025-06-14,OID10069,CID9807,Electronics,Laptop,West,2,17933,COD,Returned
+2024-01-23,OID10070,CID8175,Books,Textbook,South,2,1758,Debit Card,Returned
+2024-07-16,OID10071,CID8027,Electronics,Mobile,South,5,8172,Credit Card,Cancelled
+2025-01-07,OID10072,CID8065,Clothing,Saree,South,5,1784,UPI,Returned
+2024-05-08,OID10073,CID9986,Footwear,Sandals,North,4,869,Net Banking,Delivered
+2024-09-23,OID10074,CID9749,Home Appliances,Microwave,West,1,589,COD,In Transit
+2024-11-25,OID10075,CID5970,Electronics,Smartwatch,East,5,18287,Debit Card,Delivered
+2024-04-02,OID10076,CID6217,Grocery,Wheat,North,5,571,COD,In Transit
+2025-02-16,OID10077,CID9858,Footwear,Sandals,West,5,1477,COD,Returned
+2024-01-15,OID10078,CID8435,Home Appliances,Refrigerator,West,4,899,COD,Cancelled
+2025-03-14,OID10079,CID9799,Footwear,Slippers,East,3,763,UPI,Returned
+2024-05-28,OID10080,CID5858,Books,Magazine,North,2,1483,Debit Card,Returned
+2024-05-04,OID10081,CID8432,Footwear,Shoes,North,4,1511,Debit Card,Cancelled
+2025-05-12,OID10082,CID8334,Electronics,Smartwatch,East,2,23343,Credit Card,In Transit
+2025-01-02,OID10083,CID9395,Books,Novel,East,4,1104,Debit Card,Returned
+2024-03-13,OID10084,CID7306,Electronics,Smartwatch,East,5,43110,UPI,Returned
+2024-07-06,OID10085,CID5175,Footwear,Shoes,East,1,1683,Credit Card,In Transit
+2024-07-20,OID10086,CID6224,Home Appliances,Washing Machine,East,4,1595,Credit Card,Cancelled
+2024-02-18,OID10087,CID6618,Electronics,Headphones,North,3,24129,COD,Delivered
+2024-01-17,OID10088,CID9558,Clothing,Kurta,East,4,1186,COD,Returned
+2024-04-14,OID10089,CID5419,Books,Magazine,East,3,294,Net Banking,Returned
+2024-04-06,OID10090,CID8807,Books,Notebook,East,1,1507,Credit Card,In Transit
+2024-07-04,OID10091,CID5498,Footwear,Slippers,South,4,551,COD,Cancelled
+2025-04-11,OID10092,CID8628,Clothing,T-shirt,South,4,883,Debit Card,Returned
+2024-12-03,OID10093,CID6985,Home Appliances,Refrigerator,South,3,1389,Credit Card,Returned
+2025-01-07,OID10094,CID8855,Grocery,Rice,North,2,559,Debit Card,Returned
+2024-07-24,OID10095,CID8073,Grocery,Milk,South,3,260,COD,Delivered
+2024-02-27,OID10096,CID6972,Electronics,Laptop,West,5,33011,COD,Returned
+2025-05-30,OID10097,CID5463,Clothing,T-shirt,East,4,793,UPI,Returned
+2024-11-08,OID10098,CID8466,Home Appliances,Mixer,West,2,1812,UPI,Delivered
+2025-04-22,OID10099,CID6590,Electronics,Headphones,West,4,41200,UPI,Delivered
+2025-03-02,OID10100,CID5693,Electronics,Laptop,West,3,40849,UPI,Cancelled
+2025-06-01,OID10101,CID7733,Home Appliances,Microwave,East,5,1290,Debit Card,Cancelled
+2024-07-10,OID10102,CID8403,Home Appliances,Mixer,South,1,1241,UPI,Delivered
+2025-01-14,OID10103,CID8176,Grocery,Rice,West,4,918,COD,Delivered
+2024-08-07,OID10104,CID5286,Home Appliances,Mixer,North,3,846,Net Banking,In Transit
+2025-01-08,OID10105,CID9189,Books,Notebook,West,4,1865,UPI,In Transit
+2025-01-12,OID10106,CID9288,Grocery,Milk,South,1,1565,Net Banking,Delivered
+2024-03-02,OID10107,CID8878,Footwear,Shoes,West,4,491,Net Banking,Delivered
+2024-12-03,OID10108,CID7810,Grocery,Milk,West,2,602,COD,Returned
+2024-10-23,OID10109,CID5500,Electronics,Smartwatch,East,5,30669,COD,Cancelled
+2024-09-20,OID10110,CID8334,Books,Textbook,North,3,237,Credit Card,Delivered
+2025-05-26,OID10111,CID9639,Electronics,Smartwatch,East,2,16073,Net Banking,In Transit
+2024-09-25,OID10112,CID7155,Clothing,Jeans,North,3,1036,Net Banking,Delivered
+2024-07-02,OID10113,CID5954,Grocery,Milk,East,4,887,Net Banking,Cancelled
+2024-01-03,OID10114,CID9453,Electronics,Tablet,East,1,49885,UPI,In Transit
+2024-08-17,OID10115,CID7567,Footwear,Shoes,West,5,871,UPI,Delivered
+2024-09-27,OID10116,CID5136,Clothing,Kurta,East,1,673,UPI,Cancelled
+2025-02-10,OID10117,CID7343,Grocery,Milk,South,5,907,COD,Returned
+2024-10-01,OID10118,CID7804,Home Appliances,Refrigerator,East,5,373,Debit Card,Returned
+2024-07-29,OID10119,CID7472,Electronics,Headphones,North,4,31549,Credit Card,In Transit
+2025-03-05,OID10120,CID6784,Clothing,Kurta,North,4,1032,UPI,Delivered
+2025-01-27,OID10121,CID6511,Footwear,Shoes,North,5,1412,COD,Delivered
+2024-09-20,OID10122,CID8777,Electronics,Mobile,North,2,36334,Net Banking,Cancelled
+2024-05-03,OID10123,CID5525,Grocery,Rice,North,5,370,Net Banking,In Transit
+2025-04-18,OID10124,CID5745,Grocery,Rice,North,1,1836,Debit Card,Cancelled
+2025-02-21,OID10125,CID9872,Footwear,Slippers,North,5,1029,COD,In Transit
+2024-12-11,OID10126,CID8840,Grocery,Wheat,North,2,962,Net Banking,Cancelled
+2024-05-18,OID10127,CID6226,Clothing,T-shirt,North,1,617,UPI,Returned
+2025-02-15,OID10128,CID5200,Clothing,Saree,North,3,881,Credit Card,Cancelled
+2024-02-27,OID10129,CID5073,Footwear,Sandals,East,1,1455,Debit Card,Delivered
+2024-01-05,OID10130,CID5707,Clothing,T-shirt,North,3,1700,Net Banking,In Transit
+2024-12-25,OID10131,CID5830,Electronics,Tablet,North,4,35252,COD,Returned
+2024-04-07,OID10132,CID5733,Clothing,T-shirt,North,2,1450,Credit Card,Returned
+2024-02-01,OID10133,CID8478,Books,Textbook,East,3,1953,UPI,Cancelled
+2024-11-09,OID10134,CID7659,Home Appliances,Mixer,West,5,633,Net Banking,Delivered
+2024-12-26,OID10135,CID6637,Clothing,T-shirt,West,3,772,Debit Card,Delivered
+2025-05-20,OID10136,CID5439,Clothing,Jacket,East,3,1501,UPI,Delivered
+2025-04-22,OID10137,CID5076,Books,Textbook,East,3,1507,Credit Card,Cancelled
+2024-12-17,OID10138,CID8229,Footwear,Sandals,North,4,1983,Debit Card,Cancelled
+2024-12-02,OID10139,CID7257,Clothing,T-shirt,West,5,1029,COD,Delivered
+2025-04-11,OID10140,CID6016,Home Appliances,Refrigerator,West,2,1003,Credit Card,Delivered
+2024-08-24,OID10141,CID8217,Electronics,Smartwatch,West,2,33357,Debit Card,Cancelled
+2025-03-18,OID10142,CID5624,Footwear,Slippers,South,2,657,Credit Card,Returned
+2024-05-01,OID10143,CID8009,Books,Magazine,West,3,1693,UPI,Delivered
+2025-06-02,OID10144,CID7157,Grocery,Rice,North,4,1762,Net Banking,In Transit
+2024-10-19,OID10145,CID8585,Books,Notebook,West,2,1192,Net Banking,Cancelled
+2024-10-27,OID10146,CID8219,Clothing,T-shirt,North,2,1088,Debit Card,Cancelled
+2024-10-14,OID10147,CID8811,Home Appliances,Microwave,North,2,1780,UPI,Cancelled
+2024-10-08,OID10148,CID7512,Grocery,Milk,North,3,1642,Credit Card,In Transit
+2024-07-22,OID10149,CID9691,Grocery,Rice,North,1,1064,Debit Card,Returned
+2024-10-04,OID10150,CID6377,Footwear,Slippers,South,2,318,UPI,Delivered
+2025-03-27,OID10151,CID8418,Home Appliances,Refrigerator,East,3,411,Debit Card,Cancelled
+2024-10-19,OID10152,CID8351,Electronics,Laptop,West,5,42673,Net Banking,Returned
+2024-11-13,OID10153,CID9868,Clothing,Kurta,West,5,953,COD,In Transit
+2025-06-24,OID10154,CID7835,Books,Textbook,East,1,1605,Debit Card,Delivered
+2025-04-13,OID10155,CID9600,Books,Textbook,West,4,451,Debit Card,Cancelled
+2024-03-30,OID10156,CID8225,Electronics,Mobile,South,1,16377,Net Banking,Returned
+2024-01-04,OID10157,CID5852,Home Appliances,Washing Machine,South,2,1796,Credit Card,Delivered
+2024-01-10,OID10158,CID5901,Grocery,Rice,West,5,743,UPI,In Transit
+2024-04-14,OID10159,CID8617,Home Appliances,Washing Machine,South,1,1293,Net Banking,Delivered
+2024-11-21,OID10160,CID7866,Clothing,Kurta,West,2,1932,UPI,Delivered
+2024-09-08,OID10161,CID8836,Grocery,Wheat,East,2,1921,Debit Card,Returned
+2025-04-22,OID10162,CID7608,Books,Novel,West,5,388,COD,Delivered
+2024-08-26,OID10163,CID7780,Grocery,Wheat,West,3,331,COD,Returned
+2024-07-04,OID10164,CID9596,Clothing,Jacket,North,3,142,Debit Card,Returned
+2024-08-21,OID10165,CID7622,Grocery,Snacks,North,2,289,Net Banking,Returned
+2025-04-03,OID10166,CID5921,Footwear,Shoes,West,1,1014,Debit Card,In Transit
+2024-08-02,OID10167,CID7420,Home Appliances,Refrigerator,East,4,473,Credit Card,Delivered
+2024-07-25,OID10168,CID7286,Books,Notebook,East,1,589,Debit Card,Returned
+2024-02-08,OID10169,CID6614,Books,Novel,South,2,1074,UPI,In Transit
+2025-04-18,OID10170,CID7465,Electronics,Tablet,West,1,8876,Credit Card,Delivered
+2024-05-26,OID10171,CID7555,Home Appliances,Mixer,North,3,1293,Debit Card,Returned
+2024-12-08,OID10172,CID6305,Clothing,T-shirt,North,2,1784,Net Banking,Cancelled
+2024-10-17,OID10173,CID5155,Home Appliances,Washing Machine,South,2,533,Net Banking,In Transit
+2024-05-26,OID10174,CID7660,Home Appliances,Microwave,West,1,1049,Credit Card,Returned
+2024-08-06,OID10175,CID8548,Footwear,Shoes,North,4,130,COD,Delivered
+2025-06-22,OID10176,CID8880,Grocery,Milk,East,2,1734,COD,In Transit
+2024-09-16,OID10177,CID7422,Home Appliances,Mixer,South,1,780,Credit Card,Delivered
+2024-06-10,OID10178,CID6785,Home Appliances,Mixer,North,2,1674,COD,Returned
+2024-04-26,OID10179,CID8688,Grocery,Snacks,East,1,224,UPI,Cancelled
+2024-01-04,OID10180,CID5395,Footwear,Shoes,South,3,769,Debit Card,Returned
+2024-11-22,OID10181,CID9927,Clothing,Jacket,North,1,1805,Net Banking,Cancelled
+2024-07-10,OID10182,CID9905,Books,Notebook,West,4,1055,COD,Returned
+2024-08-22,OID10183,CID9460,Grocery,Wheat,East,1,1380,Credit Card,Delivered
+2025-02-18,OID10184,CID7414,Home Appliances,Microwave,South,2,872,Net Banking,Returned
+2024-03-10,OID10185,CID9665,Books,Textbook,South,3,1897,Net Banking,Returned
+2025-03-30,OID10186,CID6376,Clothing,T-shirt,North,5,824,Debit Card,Returned
+2025-05-08,OID10187,CID8819,Home Appliances,Microwave,North,1,1557,Credit Card,In Transit
+2024-07-26,OID10188,CID8829,Footwear,Slippers,South,2,227,Credit Card,Cancelled
+2024-02-27,OID10189,CID5800,Home Appliances,Washing Machine,West,2,898,Credit Card,In Transit
+2024-06-30,OID10190,CID7433,Grocery,Wheat,North,2,840,Credit Card,Delivered
+2025-03-15,OID10191,CID6350,Home Appliances,Washing Machine,North,3,835,Net Banking,Returned
+2024-06-20,OID10192,CID5026,Footwear,Sandals,North,4,176,Net Banking,Cancelled
+2024-03-01,OID10193,CID5736,Electronics,Smartwatch,East,1,36699,Net Banking,Cancelled
+2024-02-03,OID10194,CID8896,Electronics,Headphones,South,2,23716,Debit Card,Delivered
+2024-08-06,OID10195,CID8887,Books,Notebook,East,1,476,Debit Card,Cancelled
+2025-04-12,OID10196,CID8090,Grocery,Rice,East,1,573,Credit Card,Cancelled
+2025-02-04,OID10197,CID8550,Grocery,Wheat,West,4,1772,UPI,Delivered
+2024-02-09,OID10198,CID7726,Home Appliances,Washing Machine,West,3,1419,COD,Returned
+2024-06-09,OID10199,CID7226,Books,Magazine,South,5,681,Net Banking,In Transit
+2024-09-14,OID10200,CID6687,Footwear,Slippers,North,2,1476,Net Banking,In Transit
+2025-05-11,OID10201,CID6559,Electronics,Headphones,North,5,27250,Debit Card,In Transit
+2024-09-09,OID10202,CID5080,Clothing,Jeans,East,1,1751,Credit Card,In Transit
+2024-07-06,OID10203,CID8990,Clothing,Kurta,South,5,1473,Net Banking,Returned
+2025-05-11,OID10204,CID7946,Electronics,Tablet,West,1,15590,UPI,Delivered
+2024-08-16,OID10205,CID7862,Clothing,Jacket,West,3,659,COD,In Transit
+2024-04-17,OID10206,CID7592,Grocery,Milk,East,1,719,Credit Card,Returned
+2024-11-03,OID10207,CID5810,Clothing,Jacket,North,5,1424,UPI,Delivered
+2024-07-11,OID10208,CID7727,Electronics,Smartwatch,East,2,24890,UPI,In Transit
+2025-01-11,OID10209,CID7832,Clothing,T-shirt,South,4,1226,COD,Cancelled
+2025-04-02,OID10210,CID8008,Books,Novel,South,5,1065,Debit Card,In Transit
+2025-06-12,OID10211,CID8432,Footwear,Shoes,East,3,1536,UPI,Delivered
+2025-04-20,OID10212,CID7060,Footwear,Sandals,North,1,1482,UPI,Cancelled
+2024-02-14,OID10213,CID6455,Grocery,Rice,East,4,1030,UPI,Delivered
+2024-12-17,OID10214,CID8792,Clothing,T-shirt,South,2,1232,Net Banking,Cancelled
+2024-10-10,OID10215,CID7481,Clothing,Jacket,East,1,860,Debit Card,Returned
+2024-09-05,OID10216,CID9269,Electronics,Smartwatch,North,2,43405,UPI,In Transit
+2024-12-25,OID10217,CID7797,Home Appliances,Mixer,West,4,810,COD,Cancelled
+2024-03-06,OID10218,CID6982,Electronics,Mobile,South,4,16191,COD,Cancelled
+2025-02-20,OID10219,CID5994,Books,Textbook,West,3,1281,Net Banking,Delivered
+2025-04-21,OID10220,CID8670,Grocery,Milk,North,1,1635,Net Banking,Cancelled
+2024-03-24,OID10221,CID5268,Grocery,Snacks,South,1,802,Credit Card,Returned
+2024-06-17,OID10222,CID8999,Clothing,Jeans,West,2,1306,Debit Card,In Transit
+2025-06-14,OID10223,CID5282,Grocery,Snacks,South,2,1208,UPI,In Transit
+2024-03-15,OID10224,CID6333,Books,Notebook,East,5,1671,Credit Card,Delivered
+2024-11-10,OID10225,CID8876,Books,Magazine,West,3,535,COD,In Transit
+2024-06-23,OID10226,CID7971,Electronics,Tablet,North,1,9191,UPI,Returned
+2024-07-05,OID10227,CID8916,Home Appliances,Refrigerator,West,5,1434,UPI,Delivered
+2024-01-25,OID10228,CID5318,Books,Textbook,East,2,593,UPI,Delivered
+2024-03-25,OID10229,CID8809,Clothing,T-shirt,East,4,1486,Net Banking,Delivered
+2024-01-11,OID10230,CID7639,Footwear,Shoes,North,1,1859,Credit Card,Returned
+2024-03-03,OID10231,CID9570,Electronics,Smartwatch,East,1,11107,Debit Card,In Transit
+2024-06-08,OID10232,CID6684,Clothing,Jeans,South,4,798,Net Banking,Cancelled
+2024-04-11,OID10233,CID7715,Footwear,Slippers,West,1,670,Debit Card,In Transit
+2025-03-02,OID10234,CID9804,Books,Notebook,West,5,855,UPI,Delivered
+2025-01-30,OID10235,CID8607,Clothing,Jeans,East,4,1258,Net Banking,In Transit
+2025-04-21,OID10236,CID9987,Grocery,Snacks,West,5,131,COD,In Transit
+2025-06-15,OID10237,CID9151,Books,Novel,South,2,867,UPI,Returned
+2024-03-05,OID10238,CID9941,Clothing,Kurta,East,2,744,Credit Card,In Transit
+2024-02-04,OID10239,CID7463,Electronics,Tablet,South,5,36439,Net Banking,Cancelled
+2024-05-04,OID10240,CID8453,Home Appliances,Washing Machine,North,1,788,Debit Card,Cancelled
+2024-12-18,OID10241,CID7973,Home Appliances,Washing Machine,East,2,601,Debit Card,Cancelled
+2025-03-12,OID10242,CID9700,Grocery,Wheat,East,4,1623,UPI,In Transit
+2024-06-25,OID10243,CID9619,Clothing,Saree,South,1,1664,Net Banking,Delivered
+2025-03-30,OID10244,CID5276,Electronics,Laptop,East,3,14534,UPI,In Transit
+2024-12-07,OID10245,CID7156,Books,Magazine,South,1,788,Net Banking,Delivered
+2024-01-29,OID10246,CID6767,Footwear,Shoes,West,3,1174,Debit Card,Cancelled
+2024-11-29,OID10247,CID6245,Footwear,Shoes,North,2,1296,Net Banking,Cancelled
+2025-04-02,OID10248,CID7469,Footwear,Sandals,South,4,1629,Net Banking,Delivered
+2024-02-11,OID10249,CID8174,Grocery,Wheat,East,4,1920,UPI,Delivered
+2024-05-27,OID10250,CID7758,Books,Textbook,North,2,711,COD,In Transit
+2025-02-28,OID10251,CID8836,Home Appliances,Washing Machine,North,5,1224,Credit Card,Returned
+2024-04-26,OID10252,CID8593,Footwear,Shoes,West,4,1184,COD,Delivered
+2024-05-25,OID10253,CID5268,Grocery,Milk,East,5,1864,COD,Returned
+2024-10-06,OID10254,CID5684,Footwear,Sandals,South,4,936,Debit Card,Delivered
+2025-03-08,OID10255,CID7499,Grocery,Wheat,North,4,215,Debit Card,Returned
+2024-01-01,OID10256,CID6908,Footwear,Shoes,East,5,712,UPI,Cancelled
+2024-09-06,OID10257,CID7812,Books,Novel,West,4,1139,Net Banking,In Transit
+2025-05-17,OID10258,CID8762,Home Appliances,Washing Machine,North,4,363,Net Banking,Delivered
+2024-12-03,OID10259,CID8363,Footwear,Slippers,East,5,1809,Credit Card,Delivered
+2024-08-20,OID10260,CID8492,Electronics,Headphones,South,5,9949,Debit Card,In Transit
+2024-10-28,OID10261,CID9625,Electronics,Tablet,West,4,48390,COD,Delivered
+2025-02-28,OID10262,CID6065,Home Appliances,Microwave,West,3,1015,UPI,Returned
+2024-09-25,OID10263,CID7454,Grocery,Wheat,South,2,1941,COD,Returned
+2024-08-07,OID10264,CID5656,Electronics,Laptop,North,4,29949,Net Banking,Returned
+2024-05-08,OID10265,CID6921,Home Appliances,Mixer,North,4,1978,UPI,Cancelled
+2024-10-16,OID10266,CID6547,Electronics,Headphones,East,1,29166,UPI,Cancelled
+2025-06-12,OID10267,CID9930,Electronics,Headphones,East,1,16987,UPI,Cancelled
+2024-01-07,OID10268,CID6471,Grocery,Wheat,South,3,432,COD,In Transit
+2025-03-24,OID10269,CID6053,Footwear,Sandals,South,3,1477,Debit Card,Returned
+2024-11-02,OID10270,CID9680,Clothing,Jacket,South,1,1381,COD,Delivered
+2024-02-09,OID10271,CID6335,Footwear,Slippers,South,4,597,Debit Card,In Transit
+2025-02-08,OID10272,CID6845,Grocery,Snacks,East,3,215,Debit Card,Returned
+2024-01-16,OID10273,CID5755,Grocery,Wheat,North,2,1648,Net Banking,Returned
+2024-04-09,OID10274,CID8100,Home Appliances,Microwave,West,1,122,Debit Card,Returned
+2025-04-12,OID10275,CID6109,Electronics,Mobile,South,2,15698,COD,Delivered
+2025-04-26,OID10276,CID7705,Grocery,Rice,North,2,668,Net Banking,Delivered
+2024-01-24,OID10277,CID9067,Clothing,T-shirt,East,3,1913,COD,In Transit
+2024-11-30,OID10278,CID7155,Grocery,Wheat,North,3,1914,Credit Card,Cancelled
+2025-05-18,OID10279,CID8054,Home Appliances,Microwave,West,4,675,Debit Card,Delivered
+2024-06-18,OID10280,CID9364,Footwear,Slippers,North,3,1244,Credit Card,Delivered
+2024-09-02,OID10281,CID5427,Home Appliances,Mixer,North,5,1019,Net Banking,Returned
+2024-07-16,OID10282,CID9387,Grocery,Snacks,North,4,906,COD,Returned
+2024-03-25,OID10283,CID8789,Home Appliances,Microwave,East,2,623,Net Banking,Returned
+2025-05-22,OID10284,CID8024,Grocery,Snacks,West,1,107,Net Banking,Cancelled
+2025-02-11,OID10285,CID7777,Books,Magazine,West,2,417,Credit Card,Delivered
+2024-12-01,OID10286,CID9120,Books,Textbook,South,1,206,COD,Delivered
+2024-05-27,OID10287,CID8894,Electronics,Laptop,West,1,5514,COD,Cancelled
+2024-07-26,OID10288,CID5006,Grocery,Rice,West,5,1018,COD,Returned
+2024-03-03,OID10289,CID8574,Books,Magazine,North,1,148,Credit Card,Cancelled
+2025-04-28,OID10290,CID5610,Electronics,Headphones,West,3,28993,Debit Card,Cancelled
+2025-01-15,OID10291,CID7540,Grocery,Snacks,West,1,851,COD,Delivered
+2024-07-02,OID10292,CID7778,Clothing,Saree,South,3,1652,Net Banking,In Transit
+2025-05-31,OID10293,CID5410,Home Appliances,Refrigerator,West,1,483,Credit Card,Cancelled
+2025-03-19,OID10294,CID7016,Home Appliances,Mixer,North,4,565,Net Banking,In Transit
+2025-04-19,OID10295,CID8753,Clothing,Jeans,North,4,561,Debit Card,Cancelled
+2025-03-19,OID10296,CID7196,Clothing,Kurta,East,5,1835,Debit Card,Returned
+2025-03-29,OID10297,CID8075,Home Appliances,Washing Machine,North,3,350,UPI,Delivered
+2024-06-24,OID10298,CID5153,Books,Notebook,South,1,437,UPI,Returned
+2024-11-03,OID10299,CID8645,Books,Textbook,West,1,397,Credit Card,Cancelled
+2024-01-18,OID10300,CID8291,Books,Notebook,North,4,1607,Debit Card,Cancelled
+2024-04-19,OID10301,CID9685,Home Appliances,Mixer,East,3,157,COD,Returned
+2024-07-13,OID10302,CID6403,Clothing,Kurta,East,2,1905,Debit Card,In Transit
+2024-07-06,OID10303,CID6770,Clothing,Kurta,South,3,984,Credit Card,In Transit
+2024-05-17,OID10304,CID7963,Books,Textbook,North,2,1509,Debit Card,In Transit
+2024-08-11,OID10305,CID9354,Footwear,Sandals,North,1,1742,Net Banking,Cancelled
+2024-11-14,OID10306,CID5371,Electronics,Tablet,East,3,3612,Net Banking,Returned
+2024-10-28,OID10307,CID8234,Footwear,Sandals,North,4,696,COD,In Transit
+2024-07-02,OID10308,CID9983,Books,Notebook,North,2,479,Net Banking,Cancelled
+2025-03-24,OID10309,CID6996,Books,Novel,South,5,417,COD,Returned
+2025-02-15,OID10310,CID8701,Electronics,Mobile,North,1,16749,COD,Returned
+2024-12-12,OID10311,CID9920,Clothing,T-shirt,West,4,303,Net Banking,Delivered
+2024-08-21,OID10312,CID7272,Home Appliances,Washing Machine,North,2,425,Net Banking,In Transit
+2024-12-30,OID10313,CID7184,Books,Magazine,West,4,548,UPI,Returned
+2024-07-28,OID10314,CID5047,Grocery,Snacks,South,2,960,Debit Card,In Transit
+2024-01-06,OID10315,CID6547,Books,Novel,East,2,364,Debit Card,Cancelled
+2024-03-13,OID10316,CID6012,Books,Notebook,West,2,1868,Credit Card,Returned
+2024-05-22,OID10317,CID5691,Grocery,Wheat,South,3,1907,Debit Card,Returned
+2025-02-25,OID10318,CID5166,Footwear,Shoes,North,1,1599,Credit Card,Delivered
+2024-11-30,OID10319,CID9940,Footwear,Shoes,South,3,1410,UPI,Delivered
+2024-02-13,OID10320,CID8886,Electronics,Tablet,West,5,47976,Credit Card,Cancelled
+2024-07-07,OID10321,CID5801,Clothing,Jeans,South,5,1876,Debit Card,In Transit
+2025-06-15,OID10322,CID9598,Electronics,Mobile,West,3,18693,COD,Cancelled
+2024-01-31,OID10323,CID8779,Home Appliances,Refrigerator,North,1,482,Net Banking,Returned
+2024-11-11,OID10324,CID7658,Books,Magazine,South,5,1261,Net Banking,Returned
+2024-08-22,OID10325,CID8855,Home Appliances,Refrigerator,East,4,664,Credit Card,Delivered
+2025-02-26,OID10326,CID8086,Electronics,Mobile,East,4,27695,UPI,Returned
+2025-04-05,OID10327,CID5009,Clothing,Kurta,South,3,1701,UPI,Returned
+2024-04-29,OID10328,CID7862,Grocery,Milk,West,1,1697,Debit Card,Delivered
+2024-11-28,OID10329,CID8775,Footwear,Shoes,East,2,658,Credit Card,In Transit
+2024-05-12,OID10330,CID6079,Electronics,Headphones,West,4,32633,UPI,Cancelled
+2024-07-04,OID10331,CID7165,Grocery,Wheat,North,1,1049,UPI,Delivered
+2024-05-13,OID10332,CID5189,Footwear,Shoes,North,2,1511,UPI,Cancelled
+2025-04-03,OID10333,CID5319,Footwear,Slippers,North,1,415,COD,Delivered
+2025-06-18,OID10334,CID8336,Books,Notebook,West,3,1004,Credit Card,Returned
+2024-08-24,OID10335,CID9253,Books,Textbook,North,4,1035,Credit Card,In Transit
+2024-06-06,OID10336,CID9087,Electronics,Laptop,North,2,14680,Debit Card,In Transit
+2025-05-07,OID10337,CID8266,Books,Magazine,South,3,1138,Debit Card,Delivered
+2024-10-08,OID10338,CID7706,Electronics,Mobile,North,4,49962,Credit Card,Returned
+2024-04-13,OID10339,CID6314,Books,Notebook,East,4,1002,UPI,In Transit
+2024-08-01,OID10340,CID8063,Books,Notebook,South,5,1482,Net Banking,In Transit
+2024-02-09,OID10341,CID5120,Books,Novel,West,5,1557,Net Banking,Returned
+2024-02-10,OID10342,CID5405,Clothing,Saree,North,1,1756,Debit Card,Cancelled
+2024-01-30,OID10343,CID5298,Footwear,Shoes,East,4,551,Credit Card,Cancelled
+2024-02-15,OID10344,CID9148,Clothing,Jacket,South,2,362,Debit Card,Cancelled
+2025-04-14,OID10345,CID7204,Grocery,Milk,North,5,435,UPI,Delivered
+2024-06-22,OID10346,CID9925,Books,Novel,North,5,1672,COD,In Transit
+2024-03-17,OID10347,CID6398,Grocery,Wheat,West,2,664,Net Banking,Delivered
+2024-07-28,OID10348,CID8080,Home Appliances,Washing Machine,South,5,1222,Debit Card,Returned
+2024-01-21,OID10349,CID5441,Grocery,Wheat,South,4,1620,Debit Card,Cancelled
+2024-01-24,OID10350,CID9760,Grocery,Wheat,South,1,1964,Debit Card,Delivered
+2024-04-04,OID10351,CID6440,Books,Notebook,South,1,1237,Debit Card,Delivered
+2025-05-20,OID10352,CID5124,Books,Novel,East,1,974,Debit Card,Returned
+2024-01-25,OID10353,CID5051,Clothing,Kurta,North,5,719,Debit Card,Cancelled
+2025-05-24,OID10354,CID6756,Clothing,Saree,West,2,910,COD,Returned
+2024-12-23,OID10355,CID9236,Grocery,Rice,South,2,1530,COD,Delivered
+2024-11-14,OID10356,CID9644,Grocery,Wheat,North,4,138,Net Banking,Cancelled
+2024-07-09,OID10357,CID5372,Electronics,Tablet,North,2,43993,COD,Returned
+2024-11-29,OID10358,CID5384,Electronics,Laptop,South,2,17351,Debit Card,In Transit
+2024-09-01,OID10359,CID6059,Grocery,Rice,West,2,1997,Debit Card,In Transit
+2024-05-29,OID10360,CID9981,Footwear,Slippers,East,3,1165,Credit Card,Delivered
+2025-05-06,OID10361,CID8412,Books,Notebook,East,3,1165,UPI,Returned
+2024-10-21,OID10362,CID7441,Books,Magazine,West,3,870,COD,Cancelled
+2025-05-14,OID10363,CID9501,Grocery,Rice,East,2,1260,UPI,Returned
+2024-12-06,OID10364,CID9313,Footwear,Sandals,East,3,229,COD,Returned
+2024-06-05,OID10365,CID7714,Grocery,Wheat,West,5,1418,Net Banking,Returned
+2025-05-24,OID10366,CID8860,Footwear,Shoes,West,1,423,UPI,In Transit
+2024-04-08,OID10367,CID6807,Home Appliances,Refrigerator,East,3,1495,Debit Card,Delivered
+2025-03-01,OID10368,CID9343,Clothing,Kurta,South,3,1543,Credit Card,In Transit
+2025-03-16,OID10369,CID9910,Clothing,Kurta,North,2,1421,Credit Card,Returned
+2025-05-09,OID10370,CID8158,Grocery,Rice,South,3,318,COD,Returned
+2024-02-04,OID10371,CID9573,Clothing,T-shirt,East,5,394,COD,Returned
+2024-04-12,OID10372,CID5390,Clothing,Kurta,West,2,1361,UPI,Delivered
+2024-12-03,OID10373,CID8150,Books,Notebook,West,1,1195,UPI,In Transit
+2024-11-28,OID10374,CID9616,Electronics,Mobile,East,1,28258,Credit Card,Returned
+2024-12-12,OID10375,CID5524,Grocery,Milk,East,1,431,Net Banking,In Transit
+2025-06-02,OID10376,CID6098,Books,Notebook,West,3,1049,COD,Returned
+2024-08-10,OID10377,CID8710,Footwear,Slippers,South,2,1143,Debit Card,Returned
+2024-01-05,OID10378,CID7827,Grocery,Snacks,North,1,1236,COD,Cancelled
+2024-08-31,OID10379,CID5449,Electronics,Tablet,West,1,37691,Net Banking,Cancelled
+2025-01-10,OID10380,CID5914,Books,Textbook,South,5,289,COD,Returned
+2025-04-16,OID10381,CID7670,Footwear,Slippers,West,1,1892,Net Banking,In Transit
+2025-06-21,OID10382,CID8365,Books,Novel,North,3,1082,Debit Card,Returned
+2024-08-14,OID10383,CID9145,Grocery,Milk,East,1,672,Net Banking,Cancelled
+2024-07-07,OID10384,CID9946,Electronics,Laptop,East,1,45902,UPI,Cancelled
+2024-11-20,OID10385,CID8887,Clothing,Jeans,East,5,413,Credit Card,Returned
+2024-02-01,OID10386,CID9396,Books,Textbook,West,5,1528,Debit Card,Delivered
+2024-02-23,OID10387,CID8275,Clothing,Kurta,East,3,165,UPI,Cancelled
+2025-05-19,OID10388,CID7908,Home Appliances,Mixer,North,1,1469,Credit Card,Cancelled
+2024-01-20,OID10389,CID8942,Home Appliances,Microwave,North,3,110,Credit Card,Delivered
+2024-02-10,OID10390,CID5752,Clothing,Jeans,North,2,159,Debit Card,Cancelled
+2024-11-24,OID10391,CID6305,Books,Textbook,North,1,624,UPI,Returned
+2025-03-05,OID10392,CID5003,Books,Magazine,West,2,559,COD,Delivered
+2024-12-14,OID10393,CID5005,Electronics,Laptop,North,4,17837,Credit Card,Delivered
+2025-05-26,OID10394,CID8344,Footwear,Slippers,East,4,348,COD,Returned
+2024-02-23,OID10395,CID9878,Grocery,Rice,South,4,812,Credit Card,In Transit
+2024-08-25,OID10396,CID9257,Books,Magazine,West,2,713,UPI,In Transit
+2025-04-07,OID10397,CID5208,Clothing,Jeans,North,4,1492,COD,Delivered
+2024-01-12,OID10398,CID6802,Home Appliances,Refrigerator,East,3,130,Credit Card,Returned
+2024-11-02,OID10399,CID9153,Clothing,T-shirt,East,1,141,Debit Card,In Transit
+2024-11-03,OID10400,CID5488,Footwear,Sandals,West,2,1457,COD,Delivered
+2024-03-29,OID10401,CID7484,Books,Notebook,East,4,1673,Debit Card,Returned
+2024-04-30,OID10402,CID5402,Grocery,Snacks,North,4,976,UPI,Returned
+2024-06-02,OID10403,CID5129,Electronics,Tablet,North,3,46076,UPI,In Transit
+2024-12-09,OID10404,CID9660,Footwear,Sandals,West,2,470,Credit Card,Returned
+2024-09-25,OID10405,CID9123,Clothing,Saree,West,2,1671,Net Banking,Returned
+2025-01-03,OID10406,CID8768,Home Appliances,Refrigerator,East,2,1862,Debit Card,Returned
+2025-02-14,OID10407,CID6170,Grocery,Snacks,East,2,964,COD,Returned
+2024-10-26,OID10408,CID6110,Books,Textbook,West,4,669,Credit Card,Delivered
+2024-06-26,OID10409,CID8698,Clothing,T-shirt,North,4,1184,UPI,Cancelled
+2025-04-12,OID10410,CID9890,Books,Novel,East,4,1300,Credit Card,Delivered
+2024-10-22,OID10411,CID7004,Grocery,Wheat,West,1,1370,Net Banking,Cancelled
+2024-04-06,OID10412,CID5522,Electronics,Headphones,South,3,22922,UPI,Returned
+2024-11-04,OID10413,CID8202,Books,Notebook,West,4,1930,COD,Returned
+2025-01-29,OID10414,CID7138,Home Appliances,Microwave,North,4,1968,Debit Card,In Transit
+2024-11-24,OID10415,CID6656,Grocery,Milk,East,5,118,COD,Cancelled
+2025-05-16,OID10416,CID7729,Grocery,Milk,North,4,622,UPI,Returned
+2024-09-09,OID10417,CID6338,Footwear,Sandals,West,2,1282,UPI,Cancelled
+2024-06-10,OID10418,CID9919,Home Appliances,Mixer,South,5,129,Debit Card,Delivered
+2025-01-15,OID10419,CID8625,Clothing,Jacket,West,1,667,Net Banking,Delivered
+2025-06-14,OID10420,CID8447,Electronics,Mobile,West,5,28624,COD,Cancelled
+2024-11-25,OID10421,CID7635,Footwear,Shoes,East,3,1842,Debit Card,Cancelled
+2024-07-11,OID10422,CID5654,Books,Notebook,West,5,1128,Credit Card,Returned
+2024-05-24,OID10423,CID5532,Clothing,Saree,South,1,1304,Debit Card,Cancelled
+2025-02-05,OID10424,CID9416,Footwear,Shoes,East,5,1680,UPI,Cancelled
+2024-04-21,OID10425,CID5625,Footwear,Slippers,South,1,1551,COD,Delivered
+2024-03-05,OID10426,CID6450,Electronics,Headphones,South,1,26670,Debit Card,Returned
+2024-02-18,OID10427,CID8229,Footwear,Shoes,East,5,1214,Credit Card,Cancelled
+2024-02-22,OID10428,CID6011,Electronics,Smartwatch,South,4,33581,Net Banking,Returned
+2024-11-25,OID10429,CID7398,Books,Novel,South,1,1209,COD,Returned
+2025-04-23,OID10430,CID5112,Books,Novel,West,2,496,Debit Card,Returned
+2025-01-15,OID10431,CID5704,Electronics,Tablet,North,1,21596,Debit Card,Delivered
+2024-02-07,OID10432,CID7304,Grocery,Rice,East,3,1836,Debit Card,In Transit
+2025-04-08,OID10433,CID8664,Grocery,Rice,North,3,1642,Credit Card,Cancelled
+2024-11-11,OID10434,CID8518,Books,Notebook,West,2,1677,Net Banking,Cancelled
+2025-05-02,OID10435,CID6821,Home Appliances,Washing Machine,North,3,1096,Debit Card,Delivered
+2025-03-01,OID10436,CID6702,Books,Novel,East,3,1841,Debit Card,Cancelled
+2024-08-25,OID10437,CID7041,Clothing,Jacket,East,4,391,Net Banking,In Transit
+2025-01-11,OID10438,CID6060,Grocery,Rice,North,2,904,Net Banking,Returned
+2025-02-01,OID10439,CID6385,Home Appliances,Refrigerator,East,1,1528,Debit Card,Cancelled
+2024-06-02,OID10440,CID7701,Grocery,Rice,East,3,759,COD,In Transit
+2024-03-16,OID10441,CID5164,Books,Textbook,West,3,619,UPI,Delivered
+2025-01-02,OID10442,CID6008,Clothing,T-shirt,South,2,1947,Net Banking,Returned
+2024-11-18,OID10443,CID7329,Clothing,Jacket,West,1,606,COD,In Transit
+2024-05-24,OID10444,CID9500,Electronics,Smartwatch,East,2,4555,UPI,Returned
+2024-01-11,OID10445,CID7644,Footwear,Shoes,West,1,1573,Debit Card,Returned
+2024-10-03,OID10446,CID7403,Electronics,Laptop,East,2,18782,COD,Cancelled
+2024-02-10,OID10447,CID8911,Grocery,Milk,South,4,1168,UPI,Cancelled
+2024-10-27,OID10448,CID5169,Books,Notebook,West,3,1352,Debit Card,In Transit
+2025-05-15,OID10449,CID5075,Grocery,Snacks,South,2,123,UPI,Delivered
+2024-10-08,OID10450,CID9317,Clothing,Kurta,West,3,1234,UPI,Cancelled
+2024-07-25,OID10451,CID8563,Grocery,Wheat,East,2,1203,Credit Card,Returned
+2025-01-29,OID10452,CID5108,Grocery,Milk,West,5,597,Net Banking,Returned
+2024-05-19,OID10453,CID9008,Books,Notebook,West,4,641,Debit Card,Delivered
+2024-01-14,OID10454,CID6104,Footwear,Shoes,North,3,347,Debit Card,Cancelled
+2024-02-11,OID10455,CID8385,Electronics,Laptop,North,3,47649,Debit Card,Cancelled
+2024-05-08,OID10456,CID5821,Grocery,Rice,East,3,1436,Debit Card,Delivered
+2024-07-06,OID10457,CID7688,Grocery,Milk,West,4,969,UPI,Returned
+2024-06-20,OID10458,CID8344,Home Appliances,Microwave,East,2,1207,Net Banking,In Transit
+2025-01-04,OID10459,CID5325,Books,Magazine,East,3,1326,Net Banking,In Transit
+2024-07-20,OID10460,CID6487,Electronics,Smartwatch,South,2,33035,Debit Card,In Transit
+2024-03-29,OID10461,CID9463,Clothing,Saree,South,4,1086,COD,Returned
+2024-07-12,OID10462,CID5788,Books,Notebook,East,3,209,UPI,Delivered
+2024-01-01,OID10463,CID6697,Electronics,Mobile,West,3,41251,Net Banking,Returned
+2025-01-04,OID10464,CID6815,Electronics,Tablet,West,3,27815,Net Banking,Returned
+2024-08-10,OID10465,CID9240,Books,Magazine,North,4,1571,Debit Card,Returned
+2024-07-24,OID10466,CID7773,Home Appliances,Microwave,West,2,259,Net Banking,Cancelled
+2024-09-04,OID10467,CID8976,Grocery,Milk,West,1,1308,Debit Card,Cancelled
+2024-02-07,OID10468,CID9609,Footwear,Slippers,North,3,1045,UPI,Returned
+2024-05-12,OID10469,CID6641,Books,Textbook,South,5,1407,UPI,Cancelled
+2025-06-16,OID10470,CID8222,Grocery,Snacks,North,4,1539,UPI,Delivered
+2024-10-03,OID10471,CID5726,Clothing,Jacket,North,3,1159,Credit Card,Returned
+2025-05-26,OID10472,CID8549,Home Appliances,Refrigerator,East,2,522,Credit Card,Delivered
+2025-03-28,OID10473,CID6281,Electronics,Headphones,South,4,8408,Debit Card,Cancelled
+2024-02-15,OID10474,CID9900,Grocery,Milk,East,5,975,Debit Card,In Transit
+2024-11-26,OID10475,CID5092,Footwear,Sandals,East,4,1993,Debit Card,Returned
+2025-01-03,OID10476,CID8029,Books,Notebook,East,2,1123,Net Banking,Delivered
+2024-09-27,OID10477,CID5668,Home Appliances,Microwave,South,3,1663,Credit Card,Delivered
+2024-07-21,OID10478,CID9359,Home Appliances,Microwave,East,5,1263,Credit Card,Returned
+2024-05-05,OID10479,CID7541,Grocery,Snacks,North,4,976,Net Banking,In Transit
+2024-11-30,OID10480,CID9738,Electronics,Smartwatch,North,4,10533,Debit Card,Returned
+2025-01-04,OID10481,CID6689,Clothing,Jeans,East,4,1805,Credit Card,Returned
+2025-01-19,OID10482,CID6804,Footwear,Sandals,West,1,679,Credit Card,Returned
+2024-03-26,OID10483,CID7622,Clothing,T-shirt,East,5,263,Net Banking,In Transit
+2024-08-15,OID10484,CID7523,Home Appliances,Refrigerator,North,1,709,COD,In Transit
+2024-10-27,OID10485,CID9808,Grocery,Snacks,West,3,1228,Debit Card,Returned
+2024-02-10,OID10486,CID7575,Books,Magazine,North,2,648,UPI,Delivered
+2025-02-14,OID10487,CID9293,Home Appliances,Mixer,West,4,726,UPI,Cancelled
+2025-01-25,OID10488,CID8237,Grocery,Milk,West,3,1017,COD,Returned
+2024-11-30,OID10489,CID9950,Electronics,Mobile,West,2,20036,Credit Card,Cancelled
+2024-09-23,OID10490,CID5762,Grocery,Snacks,South,4,108,COD,In Transit
+2025-05-29,OID10491,CID5303,Footwear,Slippers,South,5,748,UPI,In Transit
+2024-03-13,OID10492,CID8879,Clothing,Saree,East,1,1413,Debit Card,In Transit
+2024-01-22,OID10493,CID5915,Footwear,Shoes,West,5,1173,Debit Card,In Transit
+2025-03-25,OID10494,CID8016,Electronics,Tablet,West,2,37064,Debit Card,In Transit
+2024-08-13,OID10495,CID8000,Books,Magazine,West,1,1525,Net Banking,Cancelled
+2025-01-19,OID10496,CID9068,Clothing,Jacket,East,5,780,Net Banking,Returned
+2025-05-05,OID10497,CID6978,Electronics,Smartwatch,West,1,48440,Credit Card,Delivered
+2025-02-22,OID10498,CID6566,Electronics,Headphones,West,4,43094,Credit Card,Returned
+2024-06-03,OID10499,CID9840,Clothing,Jacket,East,1,788,Net Banking,Cancelled
+2024-05-04,OID10500,CID7844,Books,Textbook,North,3,616,Debit Card,In Transit
